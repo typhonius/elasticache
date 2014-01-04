@@ -1,0 +1,3 @@
+name = Elasticache
+description = Provides integration with <a href="http://aws.amazon.com/elasticache/">Amazon AWS Elasticache</a>
+core = 7.x
